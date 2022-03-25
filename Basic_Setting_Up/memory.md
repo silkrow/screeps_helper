@@ -1,6 +1,6 @@
 # Brief Introduction of Memory
 ---
-Created on 2022/3/24, by Silkrow
+Created on 2022/3/24, by silkrow
 
 Edition
 

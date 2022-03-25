@@ -1,8 +1,8 @@
 /*
-Created on 2022/3/24 by Silkrow
+Created on 2022/3/24 by silkrow
 Edition: 
 ---
-A basic harvester role module. 
+A basic builder role module. 
 */
 
 var roleBuilder = {
